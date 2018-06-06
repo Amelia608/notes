@@ -1,0 +1,9 @@
+1.vue2.0 v-tap简洁（漏）版 （只解决300ms问题）
+https://www.cnblogs.com/JRliu/p/5972068.html
+
+2.vuejs使用FormData对象，ajax上传图片文件
+https://www.cnblogs.com/yesyes/p/7299500.html
+
+
+3.HTML5利用FormData对象实现显示进度条的文件上传【译】
+https://blog.csdn.net/q1056843325/article/details/53759963
